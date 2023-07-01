@@ -2,7 +2,7 @@
 
 This repository contains a set of Java programs for inter-process communication (IPC). The project includes a client-server communication system where the client sends a demand number to the server, and the server executes the corresponding Java program based on the demand received.
 
-##mContents
+## Contents
 The repository includes the following Java files:
 
 Client.java: Implements the client-side code for sending demands to the server.
